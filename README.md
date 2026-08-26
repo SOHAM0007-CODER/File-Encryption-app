@@ -2,7 +2,7 @@
 
 Welcome to the **File Encryption App**, a beautifully simple desktop application designed to keep your private files secure! With a user-friendly GUI, you can easily lock and unlock your files with a secure password. 
 
-![Cute GUI Interface](./assets/cute_gui_mockup.jpg)
+![App Interface](./assets/gui.png)
 
 ## ✨ Features
 - **Secure Encryption**: Uses robust Fernet (AES-128) encryption. 
