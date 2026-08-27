@@ -10,6 +10,11 @@ Welcome to the **File Encryption App**, a secure and straightforward desktop app
 - **Consistent Keys**: Derives a 32-byte key automatically from your password using SHA-256 to reliably secure your files. 
 - **Batch Processing**: Select and encrypt/decrypt multiple files at once. 
 
+## Requirements
+Ensure you have the following installed before running the app:
+- Python 3.x
+- `cryptography` library (Install using `pip install cryptography`)
+
 ## How to Use
 1. **Run the App**: Execute `python "PYTHON PROJECT FINAL.py"` in your terminal.
 2. **Encrypt**: Click the 'Encrypt' button, type a secure password, and select the files you wish to lock.
